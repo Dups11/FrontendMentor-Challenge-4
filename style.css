@@ -147,7 +147,7 @@ body {
         width: 236px;
         height: 179px;
         overflow: visible;
-        background-image: url(/images/bg-pattern-mobile.svg);
+        background-image: url(./images/bg-pattern-mobile.svg);
         background-position-x: 0;
         background-position-y: 70px;
         top: -74px;
